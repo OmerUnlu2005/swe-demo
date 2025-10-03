@@ -6,3 +6,4 @@ This library was generated with [Nx](https://nx.dev).
 
 Run `nx test swe-demo-feature` to execute the unit tests.
 hallo world!
+hello
