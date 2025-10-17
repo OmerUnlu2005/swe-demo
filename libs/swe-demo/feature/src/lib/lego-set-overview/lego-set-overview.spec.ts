@@ -1,16 +1,16 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-import { SweDemoDomain } from './swe-demo-domain';
+import { LegoSetOverview } from './lego-set-overview';
 
-describe('SweDemoDomain', () => {
-  let component: SweDemoDomain;
-  let fixture: ComponentFixture<SweDemoDomain>;
+describe('LegoSetOverview', () => {
+  let component: LegoSetOverview;
+  let fixture: ComponentFixture<LegoSetOverview>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [SweDemoDomain],
+      imports: [LegoSetOverview],
     }).compileComponents();
 
-    fixture = TestBed.createComponent(SweDemoDomain);
+    fixture = TestBed.createComponent(LegoSetOverview);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
