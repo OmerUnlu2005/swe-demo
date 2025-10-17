@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SweDemoBackend.Application/1.0.0": {
+        "dependencies": {
+          "SweDemoBackend.Contracts": "1.0.0",
+          "SweDemoBackend.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SweDemoBackend.Application.dll": {}
+        }
+      },
+      "SweDemoBackend.Contracts/1.0.0": {
+        "runtime": {
+          "SweDemoBackend.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SweDemoBackend.Domain/1.0.0": {
+        "runtime": {
+          "SweDemoBackend.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SweDemoBackend.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SweDemoBackend.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SweDemoBackend.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\OmerZ\OneDrive - Thomas More\1ITF03\3 year\Software Engineering\swe-demo\libs\swe-demo-backend\SweDemoBackend.Domain\bin\Debug\net9.0\SweDemoBackend.Domain.deps.json
+C:\Users\OmerZ\OneDrive - Thomas More\1ITF03\3 year\Software Engineering\swe-demo\libs\swe-demo-backend\SweDemoBackend.Domain\bin\Debug\net9.0\SweDemoBackend.Domain.dll
+C:\Users\OmerZ\OneDrive - Thomas More\1ITF03\3 year\Software Engineering\swe-demo\libs\swe-demo-backend\SweDemoBackend.Domain\bin\Debug\net9.0\SweDemoBackend.Domain.pdb
+C:\Users\OmerZ\OneDrive - Thomas More\1ITF03\3 year\Software Engineering\swe-demo\libs\swe-demo-backend\SweDemoBackend.Domain\obj\Debug\net9.0\SweDemoBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerZ\OneDrive - Thomas More\1ITF03\3 year\Software Engineering\swe-demo\libs\swe-demo-backend\SweDemoBackend.Domain\obj\Debug\net9.0\SweDemoBackend.Domain.AssemblyInfoInputs.cache
+C:\Users\OmerZ\OneDrive - Thomas More\1ITF03\3 year\Software Engineering\swe-demo\libs\swe-demo-backend\SweDemoBackend.Domain\obj\Debug\net9.0\SweDemoBackend.Domain.AssemblyInfo.cs
+C:\Users\OmerZ\OneDrive - Thomas More\1ITF03\3 year\Software Engineering\swe-demo\libs\swe-demo-backend\SweDemoBackend.Domain\obj\Debug\net9.0\SweDemoBackend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\OmerZ\OneDrive - Thomas More\1ITF03\3 year\Software Engineering\swe-demo\libs\swe-demo-backend\SweDemoBackend.Domain\obj\Debug\net9.0\SweDemoBackend.Domain.sourcelink.json
+C:\Users\OmerZ\OneDrive - Thomas More\1ITF03\3 year\Software Engineering\swe-demo\libs\swe-demo-backend\SweDemoBackend.Domain\obj\Debug\net9.0\SweDemoBackend.Domain.dll
+C:\Users\OmerZ\OneDrive - Thomas More\1ITF03\3 year\Software Engineering\swe-demo\libs\swe-demo-backend\SweDemoBackend.Domain\obj\Debug\net9.0\refint\SweDemoBackend.Domain.dll
+C:\Users\OmerZ\OneDrive - Thomas More\1ITF03\3 year\Software Engineering\swe-demo\libs\swe-demo-backend\SweDemoBackend.Domain\obj\Debug\net9.0\SweDemoBackend.Domain.pdb
+C:\Users\OmerZ\OneDrive - Thomas More\1ITF03\3 year\Software Engineering\swe-demo\libs\swe-demo-backend\SweDemoBackend.Domain\obj\Debug\net9.0\ref\SweDemoBackend.Domain.dll
